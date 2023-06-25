@@ -5,4 +5,6 @@ uvicorn==0.11.3
 # dev
 pytest==5.4.1
 requests==2.23.0
-starlette~=0.13.2
+starlette==0.13.2
+databases==0.7.0
+SQLAlchemy==1.4.48
